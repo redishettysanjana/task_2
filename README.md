@@ -47,9 +47,3 @@ This project was developed as part of the **Maincrafts Internship**, focusing on
 * Building real-world applications using Python
 * Understanding file-based data storage
 * Strengthening problem-solving and coding fundamentals
-
-If you want, I can also upgrade this further with:
-
-* GitHub badges (looks more pro)
-* Demo screenshots section
-* Resume-ready project description (1–2 lines)
