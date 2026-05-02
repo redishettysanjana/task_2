@@ -4,7 +4,7 @@ A simple yet effective **Expense Tracker Application** built using Python to hel
 
 Developed as part of the **Maincrafts Internship**, this project focuses on strengthening core programming skills while solving a real-world problem—tracking personal finances.
 
----
+
 
 ## 📖 Overview
 
